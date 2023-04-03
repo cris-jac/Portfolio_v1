@@ -1,17 +1,17 @@
-import installNode from '../assets/portfolio/installNode.jpg';
-import arrayDest from '../assets/portfolio/arrayDestruct.jpg';
-import navBarImage from '../assets/portfolio/navbar.jpg';
-import reactSmooth from '../assets/portfolio/reactSmooth.jpg';
-import reactWeather from '../assets/portfolio/reactWeather.jpg';
+import taskmate from '../assets/portfolio/taskmate.png';
+import cinema from '../assets/portfolio/cinema.png';
+import gpt3ui from '../assets/portfolio/gpt3ui.png';
+import feedback from '../assets/portfolio/feedback.png';
+// import reactWeather from '../assets/portfolio/reactWeather.jpg';
 
 const Portfolio = () => {
 
   const ports = [
-    {id:1, src: installNode},
-    {id:2, src: arrayDest},
-    {id:3, src: navBarImage},
-    {id:4, src: reactSmooth},
-    {id:5, src: reactWeather}
+    {id:1, src: taskmate},
+    {id:2, src: cinema},
+    {id:3, src: gpt3ui},
+    {id:4, src: feedback}
+    // {id:5, src: reactWeather}
   ]
   
 
