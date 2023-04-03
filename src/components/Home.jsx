@@ -11,7 +11,7 @@ const Home = () => {
             <h1>Soy un Desarrollador Web Front-End</h1>
           </div>
 
-          <p className='text-gray-300 py-4 max-w-md'>I have 0 years of experience building and designing software. Currently, I love to work on web applications using technologies like React, Tailwind, Next JS and GraphQL</p>
+          <p className='text-gray-300 py-4 max-w-md'>Me encanta trabajar con tecnologias como React y Tailwind, ya que estos proveen el equilibrio entre funcionalidad y estetica</p>
 
           <div>
             <button className="group w-fit rounded-full  text-black bg-gradient-to-l from-[#024B98] via-[#0388E3] to-[#57FFFF] cursor-pointer ">
